@@ -9,7 +9,6 @@ import pyperclip
 import json
 import os
 
-from Scripts.bottle import json_loads
 
 history_file = "upload_history.json" # создали файл для хранения истории
 
